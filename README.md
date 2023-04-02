@@ -1,16 +1,18 @@
-# STATS220
-##A This is Joel's Repo
-For Project 1, here is the link for project 1 submission https://canvas.auckland.ac.nz/courses/89757/assignments/328471
+## Top of the charts when I was born
 
-### About me
-### Hobbies
-- Gym
-- Gaming
-- Cooking
 
-### The courses I take this semester 
-1. Stats220
-2. Stats255
-3. Stats320
-4. Stats326
-5. Scigen399
+
+
+I don/t recognise **any of these songs!**
+
+
+
+
+1. BYE BYE BYE
+
+2. RISE
+
+
+3. DON'T CALL ME BABY
+
+Here's the link to the chart https://nztop40.co.nz/chart/singles?chart=1072
