@@ -12,7 +12,6 @@ I don/t recognise **any of these songs!**
 
 2. RISE
 
-
 3. DON'T CALL ME BABY
 
-[link text](https://nztop40.co.nz/chart/singles?chart=1072/"Here's the link to the chart")
+<p>Click<<a href=" https://nztop40.co.nz/chart/singles?chart=1072">Here's the lin to the chart
